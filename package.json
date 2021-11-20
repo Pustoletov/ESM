@@ -1,0 +1,26 @@
+{
+  "name": "esm",
+  "version": "1.0.0",
+  "description": "ESM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "live-server src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pustoletov/ESM.git"
+  },
+  "keywords": [
+    "ESM"
+  ],
+  "author": "Pustoletov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pustoletov/ESM/issues"
+  },
+  "homepage": "https://github.com/Pustoletov/ESM#readme",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
